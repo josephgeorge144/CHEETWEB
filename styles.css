@@ -1,0 +1,73 @@
+
+
+header{
+  
+    background-color: rgb(7, 1, 1);
+    width: 100%;
+    height: auto;
+    margin-top: 0;
+    padding-top:.7cm;
+}
+header h1{
+    
+    color: #ffff;
+    
+    width: 9cm;
+    margin: 0px auto;
+    font-size: 1cm;
+    font-family: monospace;
+   
+   
+}
+.headernav{background-color: rgb(30, 31, 31);
+    margin-top: 1.4cm;
+}
+.headernav ul{
+list-style: none;
+text-align: center;
+padding-top: .5cm;
+padding-bottom: .5cm;
+}
+.headernav ul li{
+    display: inline;
+    margin-right: 2cm;
+    color: #ffff;
+    font-weight: bolder;}
+    thead {
+        background-color: #333;
+        color: white;
+        font-size: 0.875rem;
+        text-transform: uppercase;
+        letter-spacing: 2%;
+    }
+a:hover{
+    color:red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body{
+    margin: 0%;
+    background-image: url("BGI.jpg");
+}
